@@ -1,0 +1,1 @@
+Word on narrowing down space between boxes.
